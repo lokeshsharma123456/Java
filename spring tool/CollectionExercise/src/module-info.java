@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module CollectionExercise {
+	requires lombok;
+}
