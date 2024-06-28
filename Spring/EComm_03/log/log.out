@@ -1,0 +1,7 @@
+[WARN ] 2024-06-19 16:14:01 main com.techmojo.app.DemoApp : 17 - Trying to buy product of cost 5500.0. My account balance  is 5000.0
+[DEBUG] 2024-06-19 16:14:01 main com.techmojo.beans.Shopping : 15 - Inside of buyProduct with 5000.0 and prodCost: 5500.0
+[WARN ] 2024-06-19 16:14:01 main com.techmojo.beans.Shopping : 19 - Balance is lower than prodCost
+[WARN ] 2024-06-19 16:14:32 main com.techmojo.app.DemoApp : 17 - Trying to buy product of cost 5500.0. My account balance  is 5000.0
+[DEBUG] 2024-06-19 16:14:32 main com.techmojo.beans.Shopping : 15 - Inside of buyProduct with 5000.0 and prodCost: 5500.0
+[WARN ] 2024-06-19 16:14:32 main com.techmojo.beans.Shopping : 19 - Balance is lower than prodCost
+[ERROR] 2024-06-19 16:14:32 main com.techmojo.app.DemoApp : 23 - com.techmojo.exception.InsufficientFindException: Your balance is5000.0 which is not sufficient to spend 5500.0
